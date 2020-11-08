@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center"> Hi 👋, I'm Kevin Aguilar</h1>
 
-<!--
-**AguilarKevin/AguilarKevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">computer science engineering student <br>  </h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```Python
+aboutMe = {
+    code: ["Python", "Kotlin", "Java", "Javascript"],
+    askMeAbout: ["app dev", "web dev", "music", "astronomy"],
+    technologies: {
+        mobileDevelopment: ["Android App with Kotlin"],
+        databases: ["MySql", "sqlite"],
+    },
+    currentFocus: "become a full stack developer",
+    funFact: "The first programmer in the world was a woman."
+};
+```
