@@ -1,6 +1,9 @@
 <h1 align="center"> Hi There, I'm <p style="color:#1a3a91;">Kevin Aguilar</p>👋</h1>
-<h3 align="center">Software Developer <br>  </h3>
+
+<h3 align="center">Software Developer <br></h3>
+
 <h3 style="background-color:#121212;">
+
 ```javascript
 const aboutMe = {
     age: 19,
