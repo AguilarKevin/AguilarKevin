@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There, I'm <p style="color:#1a3a91;">Kevin Aguilar</p>👋</h1>
+<h1 align="center"> Hi There, I'm <span style="color:#1a3a91;">Kevin Aguilar</span>👋</h1>
 
 <h3 align="center">Software Developer <br></h3>
 
