@@ -12,7 +12,7 @@ const aboutMe = {
     technologies: {
         mobileDevelopment: ["Android App"],
         frontend: ["React.js"],
-        desktop: ["Electron.js"]
+        desktop: ["Electron.js"],
         databases: ["MySql", "sqlite"],
         misc: ["Firebase"]
     },
