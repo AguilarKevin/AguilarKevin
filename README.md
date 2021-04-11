@@ -21,6 +21,8 @@ const aboutMe = {
 }
 
 ```
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarkevin&show_icons=true&theme=dark&langs_count=8&layout=compact)
 </h3>
+
+<div>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarkevin&show_icons=true&theme=dark&langs_count=8&layout=compact)
+</div>
