@@ -14,6 +14,6 @@ const AguilarKevin = {
 }
 ```
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarkevin&show_icons=true&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarkevin&show_icons=true&theme=dark&layout=compact)]
 
 </h3>
