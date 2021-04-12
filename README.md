@@ -1,28 +1,19 @@
-<h1 align="center"> Hi There, I'm <span style="color:#1a3a91;">Kevin Aguilar</span>👋</h1>
+<h1> Hi, I'm Kevin Aguilar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<img align='right' src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="230">
+<h2><strong>Junior Frontend Developer</strong></h2>
 
-<h3 align="center">Software Developer <br></h3>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h3 style="background-color:#121212;">
-
+<h3>
+    
 ```javascript
-const aboutMe = {
-    age: 19,
-    country:"Nicaragua",
-    code : ["Python", "Kotlin", "Java", "Javascript"],
-    technologies: {
-        mobileDevelopment: ["Android App"],
-        frontend: ["React.js"],
-        desktop: ["Electron.js"],
-        databases: ["MySql", "sqlite"],
-        misc: ["Firebase"]
-    },
-    askMeAbout: ["data structures", "android development", "music", "astronomy"],
-    funFact: "The first programmer in the world was a woman."
+const AguilarKevin = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, Python, Java, Kotlin, C/C++],
+  tools: [Node.js, Electron.js, Git, MySQL, SQLite]
 }
-
 ```
-</h3>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarkevin&show_icons=true&theme=dark)]
 
-<div>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aguilarkevin&show_icons=true&theme=dark&langs_count=8&layout=compact)
-</div>
+</h3>
