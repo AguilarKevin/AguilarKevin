@@ -1,6 +1,6 @@
 <h1> Hi, I'm Kevin Aguilar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <img align='right' src="https://media2.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="135">
-<span>I'm a<strong> Junior Frontend Developer</strong> based in Nicaragua and and I'm currently a student of Computer Science Engineering.</span>
+<span>I'm a<strong> Junior Full-Stack Developer</strong> based in Nicaragua and and I'm currently a student of Computer Science Engineering.</span>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="60"> A little more about me...  
 
