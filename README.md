@@ -7,20 +7,19 @@
 <h3>
     
 ```javascript
-const AguilarKevin = {
-  pronouns: "He" | "Him",
+const aguilarKev = {
   location: "Managua, Nicaragua",
   Age: 19,
-  code: {
-        Frontend: [Javascript, HTML, CSS],
-        Backend: [Node.js],
-        Desktop: [Electron.js, JavaFx application],
-        Mobile: [Android With Kotlin/Java],
-        other:[Python],
-        DBMS: [MySQL, SQLite],
-        misc: []
+  description:"",
+  technologies:{
+        Frontend: ["Javascript", "CSS3", "HTML5", "React.js"],
+        Backend: ["Node.js", "Express.js"],
+        DBMS: ["MySQL", "SQLite", "MongoDB"],
+        Desktop: ["Electron.js", "JavaFx"],
+        Mobile: ["Android(Kotlin/Java)"],
+        other:["Python"]
   },
-  current_focus: "improve my JS skills",
+  current_focus: "learn all technologies of the MERN stack"
 }
 ```
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&theme=dark)
