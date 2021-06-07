@@ -5,9 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aguilarkevin&label=Profile%20views&color=0e75b6&style=flat&theme=dark" alt="aguilarkevin" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/aguilarkev_" target="blank"><img src="https://img.shields.io/twitter/follow/aguilarkev_?logo=twitter&style=for-the-badge" alt="aguilarkev_" /></a> </p>
-
 - 🔭 I’m currently working on [AguilarKevin.github.io](https://github.com/AguilarKevin/AguilarKevin.github.io)
 
 - 🌱 I’m currently learning **Reactjs, nodejs**
