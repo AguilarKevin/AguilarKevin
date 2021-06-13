@@ -28,4 +28,3 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aguilarkevin&show_icons=true&locale=en&layout=compact&theme=dark" alt="aguilarkevin" /> <img src="https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&locale=en&theme=dark" alt="aguilarkevin" />
 </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aguilarkevin&theme=dark" alt="aguilarkevin" /></a> </p>
