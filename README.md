@@ -11,9 +11,6 @@
 
 - Laravel
 
-<h3 align="left">Connect with me:</h3>
 📫 Email: **kevinaguilar0813@gmail.com**
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/AguilarKevin?tab=repositories](https://github.com/AguilarKevin?tab=repositories)
+👨‍💻 All of my projects are available at [https://github.com/AguilarKevin?tab=repositories](https://github.com/AguilarKevin?tab=repositories)
 
