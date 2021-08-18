@@ -10,7 +10,3 @@
 <h4>Backend</h4>
 
 - Laravel
-
-📫 Email: **kevinaguilar0813@gmail.com**
-👨‍💻 All of my projects are available at [https://github.com/AguilarKevin?tab=repositories](https://github.com/AguilarKevin?tab=repositories)
-
