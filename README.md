@@ -7,8 +7,4 @@
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&locale=en&theme=dark" alt="aguilarkev" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aguilarkevin&theme=dark" alt="aguilarkev" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aguilarkevin&show_icons=true&locale=en&layout=compact&theme=dark" alt="aguilarkevin" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&locale=en&theme=dark" alt="aguilarkev" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aguilarkevin&show_icons=true&locale=en&layout=compact&theme=dark" alt="aguilarkevin" />
