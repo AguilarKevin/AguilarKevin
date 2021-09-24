@@ -1,5 +1,6 @@
-# Hi there 👋, I'm Kevin 👨‍💻 
-<p >I am a resourceful web developer, focused on creating modern and interactive websites, I love collaborating with brilliant people, this helps me learn tons of new things that help me grow as a developer.</p>
+# Hi there 👋, I'm Kevin 
+<img width="140" src="76246-test-raffle.gif"/> 
+<span>I am a resourceful web developer, focused on creating modern and interactive websites, I love collaborating with brilliant people, this helps me learn tons of new things that help me grow as a developer.</span>
 
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
