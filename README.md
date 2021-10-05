@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Kevin 
 <p>I am a resourceful web developer, focused on creating modern and interactive websites, I love collaborating with brilliant people, this helps me learn tons of new things that help me grow as a developer.</p>
-<img width="140" src="76246-test-raffle.gif"/>  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aguilarkevin&show_icons=true&locale=en&layout=compact&theme=dark" alt="aguilarkevin" />  
+<span><img width="165" src="76246-test-raffle.gif"/> </span> <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aguilarkevin&show_icons=true&locale=en&layout=compact&theme=dark" alt="aguilarkevin" />  </span>
 <h3 align="left">Technologies:</h3>
-<div width="140" align="left"> 
+<div width="180" align="left"> 
 <a href="https://laravel.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
 </a> 
@@ -12,3 +12,4 @@
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
+</div>
