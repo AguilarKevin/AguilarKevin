@@ -1,21 +1,59 @@
-# Hi there 👋, I'm Kevin
+<div align="center">
+<img src="header.png" align="center" style="width: 100%" />
+</div>  
+  
+### <div align="center">I am a resourceful web developer🚀, focused on creating modern and interactive websites, I love collaborating with brilliant people, this helps me learn tons of new things that help me grow as a developer.</div>  
+  
+<br/>  
 
-Web developer at <a href="https://getnerdify.com">Nerdify</a> <img alt="Nerd" style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/9060523?s=200&v=4" width="25">
 
-I am a resourceful web developer, focused on creating modern and interactive websites, I love collaborating with brilliant people, this helps me learn tons of new things that help me grow as a developer.</p>
+## ⚡ My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-<img width="165" src="76246-test-raffle.gif"/> </span> <span><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aguilarkevin&show_icons=true&locale=en&layout=compact&theme=dark" alt="aguilarkevin" />  </span>
 
-### Technologies:
 
-<div width="180" align="left"> 
-<a href="https://laravel.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-</a> 
-<a href="https://vuejs.org/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</a> 
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a>
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Backend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Other  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" style="width: 100%" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=aguilarkevin&&style=flat-square" align="center" />
+</div>  
+
+<br />
+
+----
