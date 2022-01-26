@@ -2,9 +2,9 @@
 
 Hi, There, I'm Kevin, I'm a 20 year old software engineer asociated at [Nerdify](https://getnerdify.com).
 
-I describe myself as a resourceful web developer, who loves coding,
+I describe myself as a resourceful software engineer, who loves coding,
 focused on creating modern and interactive websites, open source, and
-the web platform. I like to create and contribute to open source
+the mobile platform. I like to create and contribute to open source
 projects. That helps me to learn a ton of new stuff, to grow as a
 developer.
 
