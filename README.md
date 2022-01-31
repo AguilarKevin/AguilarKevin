@@ -29,4 +29,4 @@ developer.
 
 ## What I'm currently learning 📚
 
-- [Remix](https://remix.run), the full stack web framework
+- [Jetpack Compose :rocket:](https://developer.android.com/jetpack/compose) Android UI Toolkit 
