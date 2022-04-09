@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Kevin, a full-stack developer 👨‍💻</div>  
+### <div align="left">I'm Kevin, a full-stack developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Giacat Rural](https://rural.guiacat.cat/)  
@@ -85,17 +80,4 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d9hgfkgad1qf4n6pidgfmt3ee&cover_image=true&theme=default" /></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=aguilarkevin
-&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
