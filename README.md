@@ -1,16 +1,28 @@
-### <div align="left">I'm Kevin, a full-stack developer 👨‍💻</div>  
-  
+
+# <div align="left">Hello World! 👋, I'm kevin Aguilar</div>    
+
+## Quick overview
+I'm a 20 year old Fullstack Software Developer 👨‍💻 based in Nicaragua 🌋 focused on building modern and interactive apps 🚀. 
 
 - 🔭 I’m currently working on [Giacat Rural](https://rural.guiacat.cat/)  
   
+- 🌱 I’m currently learning [Kotlin](https://www.kotlinlang.org) and [Jetpack Compose](https://developer.android.com/jetpack/compose)    
 
-- 🌱 I’m currently learning [Kotlin](https://www.kotlinlang.org) and [Jetpack Compose](https://developer.android.com/jetpack/compose)  
-  
+<br/>
+
+### Playing in the background 🎶
+
+<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d9hgfkgad1qf4n6pidgfmt3ee&cover_image=true&theme=novatorem" /></div> 
+
+
+#
 
 <br/>  
 
-
 ## My Skill Set  
+
+📌 Recently i've been working with React, TypeScript, GraphQL and Laravel, and I'm learning more about mobile development with Kotlin with Jetpack Compose ⚡.
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -53,6 +65,8 @@
 
 
 ## Connect with me  
+📌 Contact me following the links below or send me a dm to kevinaguilar0813@gmail.com, I love collaborating with brilliant people. ❤️
+
 <div align="center">
 <a href="https://github.com/aguilarkevin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -74,10 +88,4 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&count_private=true&hide_border=true&theme=synthwave" align="center" style="width: 100%" /></div>  
-
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d9hgfkgad1qf4n6pidgfmt3ee&cover_image=true&theme=default" /></div>  
-
-<br/>  
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
