@@ -1,8 +1,10 @@
 
-# <div align="left">Hello World! 👋, I'm kevin Aguilar</div>    
+## Hello World! 👋, I'm kevin Aguilar
+
 I'm a 20 year old Fullstack Software Developer 👨‍💻 based in Nicaragua 🌋 focused on building modern and interactive apps 🚀. 
 
-## A little more about me 😀
+
+### A little more about me 😀
 
 I consider myself a resourceful developer who applies solutions with ingenuity 💡. My focus is apply my knowledge 🧠 creating websites that feel modern and interactive 🕺🏽.
 
@@ -16,8 +18,6 @@ I consider myself a resourceful developer who applies solutions with ingenuity �
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d9hgfkgad1qf4n6pidgfmt3ee&cover_image=true&theme=novatorem" /></div> 
 
-
-#
 
 <br/>  
 
