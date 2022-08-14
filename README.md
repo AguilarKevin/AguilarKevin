@@ -1,8 +1,7 @@
 
 ## Hello World! 👋, I'm kevin Aguilar
 
-I'm a 20 year old Fullstack Software Developer 👨‍💻 based in Nicaragua 🌋 focused on building modern and interactive apps 🚀. 
-
+I'm a 21 year old Fullstack Software Developer 👨‍💻 based in Nicaragua 🌋 focused on building modern and interactive apps 🚀. 
 
 ### A little more about me 😀
 
@@ -14,7 +13,7 @@ I consider myself a resourceful developer who applies solutions with ingenuity �
 
 <br/>
 
-### Playing in the background 🎶
+### Currently listening to🎶
 
 <div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d9hgfkgad1qf4n6pidgfmt3ee&cover_image=true&theme=novatorem" /></div> 
 
