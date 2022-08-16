@@ -9,7 +9,7 @@ I consider myself a resourceful developer who applies solutions with ingenuity �
 
 - 🔭 I’m currently working on [Giacat Rural](https://rural.guiacat.cat/)  
   
-- 🌱 I’m currently learning [Kotlin](https://www.kotlinlang.org) and [Jetpack Compose](https://developer.android.com/jetpack/compose)    
+- 🌱 I’m currently learning [Node.js](https://nodejs.org/)
 
 <br/>
 
@@ -22,7 +22,7 @@ I consider myself a resourceful developer who applies solutions with ingenuity �
 
 ## My Skill Set  
 
-📌 Recently i've been working with React, TypeScript, GraphQL and Laravel, and I'm learning more about mobile development with Kotlin with Jetpack Compose ⚡.
+📌 Recently i've been working with Next.js, React, TypeScript, GraphQL and Laravel, and I'm learning more about mobile development with Node.js ⚡.
 
 <table><tr><td valign="top" width="33%">
 
