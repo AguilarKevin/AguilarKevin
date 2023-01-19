@@ -11,13 +11,6 @@ I consider myself a resourceful developer who applies solutions with ingenuity ð
   
 - ðŸŒ± Iâ€™m currently learning [Node.js](https://nodejs.org/)
 
-<br/>
-
-### Currently listening toðŸŽ¶
-
-<div align="left"><img src="https://spotify-github-profile.vercel.app/api/view?uid=d9hgfkgad1qf4n6pidgfmt3ee&cover_image=true&theme=novatorem" /></div> 
-
-
 <br/>  
 
 ## My Skill Set  
@@ -81,12 +74,4 @@ I consider myself a resourceful developer who applies solutions with ingenuity ð
 <a href="https://dev.to/aguilarkevin" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aguilarkevin&show_icons=true&count_private=true&hide_border=true&theme=synthwave" align="center" style="width: 100%" /></div>  
-<br/>  
+</div> 
