@@ -9,13 +9,13 @@ I consider myself a resourceful developer who applies solutions with ingenuity �
 
 - 🔭 I’m currently working on [1Click](https://1clicknicaragua.com/)  
   
-- 🌱 I’m currently learning [Node.js](https://nodejs.org/)
+- 🌱 I’m currently learning [React Native](https://reactnative.dev/)
 
 <br/>  
 
 ## My Skill Set  
 
-📌 Recently i've been working with Next.js, React, TypeScript, GraphQL and Laravel, and I'm learning more about mobile development with Node.js ⚡.
+📌 Recently i've been working with Next.js, React, TypeScript, GraphQL and Laravel, and I'm learning more about mobile development with React Native and Expo ⚡.
 
 <table><tr><td valign="top" width="33%">
 
