@@ -5,11 +5,9 @@ I'm a 21 year old Fullstack Software Developer 👨‍💻 based in Nicaragua �
 
 ### A little more about me 😀
 
-I consider myself a resourceful developer who applies solutions with ingenuity 💡. My focus is apply my knowledge 🧠 creating websites that feel modern and interactive 🕺🏽.
-
-- 🔭 I’m currently working on [1Click](https://1clicknicaragua.com/)  
+I consider myself a resourceful developer who applies solutions with ingenuity 💡. My focus is apply my knowledge 🧠 creating websites that feel modern and interactive 🕺🏽.  
   
-- 🌱 I’m currently learning [React Native](https://reactnative.dev/)
+- 🌱 I’m currently learning [Astro.Build](https://astro.build/)
 
 <br/>  
 
